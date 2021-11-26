@@ -1,2 +1,2 @@
-# selfbot
+# horkus-bot
 selfbot whastapp
